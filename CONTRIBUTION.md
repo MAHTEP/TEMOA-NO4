@@ -27,7 +27,7 @@ To open an issue:
 
 ## How to Get Help?
 
-If someting about contribution is not clear, please feel free to contact alessandro\_balbo@polito.it.
+If someting about contribution is not clear, please feel free to contact \[alessandro\_balbo@polito.it](mailto:alessandro\_balbo@polito.it).
 
 ## Contributors License Agreement
 
